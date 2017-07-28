@@ -10,7 +10,7 @@ import tech.iooo.coco.condition.CustomRequestMappingHandlerMapping;
  * Created by Ivan97 on 2017/7/28 下午4:51
  */
 @Configuration
-public class WebConfig extends WebMvcConfigurationSupport {
+public class WebConfiguration extends WebMvcConfigurationSupport {
 
     @Override
     @Bean
